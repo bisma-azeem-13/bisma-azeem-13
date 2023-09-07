@@ -1,3 +1,4 @@
+![logo](https://github.com/bisma-azeem-13/bisma-azeem-13/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Bisma Azeem</h1>
 <h3 align="center">Passionate beginner data scientist exploring the vast realm of data, driven by curiosity and a thirst for knowledge.</h3>
 
