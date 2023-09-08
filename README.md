@@ -10,6 +10,8 @@
 
 - 📄 Sharing my data science journey and insights here: [www.linkedin.com/in/bisma-azeem-qureshi](www.linkedin.com/in/bisma-azeem-qureshi)
 
+- Check out my other socials @ [https://bento.me/bisma-azeem](https://bento.me/bisma-azeem)
+  
 - ⚡ Fun fact **I think I possess the uncanny talent to turn raw data into valuable insights, as if I have a secret data science superpower.**
 
 <h3 align="left">Connect with me:</h3>
