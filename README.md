@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisma-azeem-13&label=Profile%20views&color=0e75b6&style=flat" alt="bisma-azeem-13" /> </p>
 
-- 🌱 I’m currently learning **Data Visualization and Python libraries for Data science**
+- 🌱 I’m currently learning **Machine Learning and PowerBI**
 
 - 📄 Sharing my data science journey and insights here: [www.linkedin.com/in/bisma-azeem-qureshi](www.linkedin.com/in/bisma-azeem-qureshi)
 
