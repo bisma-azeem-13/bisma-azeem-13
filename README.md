@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisma-azeem-13&label=Profile%20views&color=0e75b6&style=flat" alt="bisma-azeem-13" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and PowerBI**
+- 🌱 I’m currently learning **Machine Learning**
+-  Ex-ML Intern @Mentorness
+-  Currently, Data Science Intern @DataGlacier
 
 - 📄 Sharing my data science journey and insights here: [www.linkedin.com/in/bisma-azeem-qureshi](www.linkedin.com/in/bisma-azeem-qureshi)
 
