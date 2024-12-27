@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 -  Ex-ML Intern @Mentorness
--  Data Science Intern @DataGlacier
+-  Ex-Data Science Intern @DataGlacier
 
 - 📄 Sharing my data science journey and insights here: [www.linkedin.com/in/bisma-azeem-qureshi](www.linkedin.com/in/bisma-azeem-qureshi)
 
